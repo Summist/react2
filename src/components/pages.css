@@ -1,0 +1,92 @@
+.TeamDiv {
+    background: #A0A0A0;
+    display: flex;
+    justify-content: center;
+    margin: -8px;
+    height: 843px;
+}
+.TeamDiv h1 {
+    color: white;
+}
+.divteamh1 h1:before {
+    content: "";
+    border: 10px solid transparent;
+    border-left: 10px solid #ea0000;
+    top: 23%;
+    margin: 0 auto;
+    left: 15%;
+}
+
+.divteamh1 h1:after {
+    content: "";
+    border: 10px solid transparent;
+    border-right: 10px solid #ea0000;
+    top: 23%;
+    margin: 0 auto;
+    right: 15%;
+}
+
+
+.AboutDiv {
+    background: #A0A0A0;
+    display: flex;
+    justify-content: center;
+    margin: -8px;
+    height: 843px;
+}
+.AboutDiv h1 {
+    color: white;
+}
+.divabouth1 h1:before {
+    content: "";
+    border: 10px solid transparent;
+    border-left: 10px solid #ea0000;
+    top: 23%;
+    margin: 0 auto;
+    left: 15%;
+}
+
+.divabouth1 h1:after {
+    content: "";
+    border: 10px solid transparent;
+    border-right: 10px solid #ea0000;
+    top: 23%;
+    margin: 0 auto;
+    right: 15%;
+}
+
+.ContactDiv {
+    background: #A0A0A0;
+    display: flex;
+    justify-content: center;
+    margin: -8px;
+    height: 843px;
+}
+.ContactDiv h1 {
+    color: white;
+}
+.divcontacth1 h1:before {
+    content: "";
+    border: 10px solid transparent;
+    border-left: 10px solid #ea0000;
+    top: 23%;
+    margin: 0 auto;
+    left: 15%;
+}
+
+.divcontacth1 h1:after {
+    content: "";
+    border: 10px solid transparent;
+    border-right: 10px solid #ea0000;
+    top: 23%;
+    margin: 0 auto;
+    right: 15%;
+}
+
+.MainDiv {
+    background: #A0A0A0;
+    display: flex;
+    justify-content: center;
+    margin: -8px;
+    height: 843px;
+}

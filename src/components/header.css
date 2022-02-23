@@ -1,0 +1,94 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    background: #5c5c5c;
+    padding: 10px;
+    margin: -8px;
+    margin-bottom: 8px;
+}
+
+.about_contact {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.Contact {
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 20px;
+}
+.Contact:link { color: white; }
+.Contact:visited { color: white; }
+.Contact:hover {
+    color: #3b444b;
+    transition-delay: 10ms;
+    transition-duration: 450ms;
+}
+.Contact:active {
+    color: black;
+    transition-duration: 0ms;
+    transition-delay: 0ms;
+}
+.Contact:focus { color: black; }
+
+.About {
+    text-decoration: none;
+    font-size: 20px;
+}
+.About:link { color: white; }
+.About:visited { color: white; }
+.About:hover {
+    color: #3b444b;
+    transition-delay: 10ms;
+    transition-duration: 450ms;
+}
+.About:active {
+    color: black;
+    transition-duration: 0ms;
+    transition-delay: 0ms;
+}
+.About:focus { color: black; }
+
+.Team {
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 20px;
+}
+.Team:link { color: white; }
+.Team:visited { color: white; }
+.Team:hover {
+    color: #3b444b;
+    transition-delay: 10ms;
+    transition-duration: 450ms;
+}
+.Team:active {
+    color: black;
+    transition-duration: 0ms;
+    transition-delay: 0ms;
+}
+.Team:focus { color: black; }
+
+.daisy {
+    background: #ea0000;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+    border-radius: 100px;
+    text-decoration: none;
+}
+.daisy:Active {
+    color: white;
+    background: #d11507;
+    transition-duration: 200ms;
+}
+.daisy:Hover {
+    color: white;
+}
+.daisy:Focus {
+    color: white;
+}
+.daisy:Visited {
+    color: white;
+}
+
